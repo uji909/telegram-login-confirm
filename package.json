@@ -15,5 +15,14 @@
     "dotenv": "^17.2.3",
     "express": "^5.2.1",
     "node-fetch": "^2.7.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uji909/telegram-login-confirm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/uji909/telegram-login-confirm/issues"
+  },
+  "homepage": "https://github.com/uji909/telegram-login-confirm#readme"
 }
